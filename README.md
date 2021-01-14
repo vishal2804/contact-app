@@ -1,5 +1,5 @@
 # contact-app
-This is for test only testing..
+This is for test only testing.
 
 
 # Contact-app-for-testing

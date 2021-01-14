@@ -10,3 +10,7 @@ npm install -g @angular/cli
 
 # Create new project
 ng new <project-name>
+
+# go to project 
+cd my-dream-app
+

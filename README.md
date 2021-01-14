@@ -7,3 +7,6 @@ This is for testing only.
 
 # Install Angular
 npm install -g @angular/cli
+
+# Create new project
+ng new <project-name>

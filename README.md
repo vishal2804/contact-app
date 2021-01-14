@@ -14,3 +14,6 @@ ng new <project-name>
 # go to project 
 cd my-dream-app
 
+# To Start Project
+ng serve
+
